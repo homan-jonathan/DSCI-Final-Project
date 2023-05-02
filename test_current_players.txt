@@ -1,0 +1,36 @@
+Juan "Soto Pacheco" Soto, LF (2018-)
+
+Season Hitting
+gamesPlayed: 30
+groundOuts: 31
+airOuts: 17
+runs: 19
+doubles: 4
+triples: 0
+homeRuns: 5
+strikeOuts: 31
+baseOnBalls: 27
+intentionalWalks: 3
+hits: 22
+hitByPitch: 0
+avg: .218
+atBats: 101
+obp: .383
+slg: .406
+ops: .789
+caughtStealing: 0
+stolenBases: 1
+stolenBasePercentage: 1.000
+groundIntoDoublePlay: 3
+numberOfPitches: 552
+plateAppearances: 128
+totalBases: 41
+rbi: 13
+leftOnBase: 38
+sacBunts: 0
+sacFlies: 0
+babip: .262
+groundOutsToAirouts: 1.82
+catchersInterference: 0
+atBatsPerHomeRun: 20.20
+

@@ -1,3 +1,39 @@
+Trea "T2" Turner, SS (2015-)
+
+Season Hitting
+gamesPlayed: 30
+groundOuts: 22
+airOuts: 37
+runs: 16
+doubles: 4
+triples: 2
+homeRuns: 2
+strikeOuts: 33
+baseOnBalls: 7
+intentionalWalks: 2
+hits: 32
+hitByPitch: 0
+avg: .258
+atBats: 124
+obp: .298
+slg: .371
+ops: .669
+caughtStealing: 0
+stolenBases: 4
+stolenBasePercentage: 1.000
+groundIntoDoublePlay: 0
+numberOfPitches: 473
+plateAppearances: 131
+totalBases: 46
+rbi: 7
+leftOnBase: 47
+sacBunts: 0
+sacFlies: 0
+babip: .337
+groundOutsToAirouts: 0.59
+catchersInterference: 0
+atBatsPerHomeRun: 62.00
+
 Juan "Soto Pacheco" Soto, LF (2018-)
 
 Season Hitting
